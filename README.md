@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to Pan chao 's Blog!
 
-You can use the [editor on GitHub](https://github.com/HKBUPC/arthurpan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The top cool 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+``` Kali Linux
+## I will show you the coolest walkthrough for CTF
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Arthur Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HKBUPC/arthurpan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Mr. Pan, PM, Ethical hacker, professional in Digital Transformation, offensive security. He masters Penetration Test, Shell, Kali Linux and Vmware & Windows, solution in Cloud Computing.
 
-### Support or Contact
+CISSP #728000#
+CISA #19156100#
+CFA-level1 Passed
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Project]
+(1) Project Manager of IT Consulting Project: Digital Transformation Project in telecom products area.
+(2) Solution Architect of Cloud-Dedicated IDC Project, CDN, SDWAN.
+(3) Smart Engineering focus on data science and process optimization.
+(4) Member of the Information Security Group. 
+
+You may want know my projects, right? [repository settings](https://github.com/HKBUPC/arthurpan.github.io/settings). 
+
+### Contact for Job invitation
+
+Wanna a top cybersecurity employee for your company? Check out my linkedin [documentation](https://www.linkedin.com/in/arthur-p-50085a125/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
